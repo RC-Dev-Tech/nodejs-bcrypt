@@ -42,7 +42,7 @@ bcrypt是一個用來對密碼進行加密和解密的套件，它可以將明�
 實作範例:
 - [Example1](https://github.com/RC-Dev-Tech/nodejs-bcrypt/blob/main/src/examples/example1.ts) - bcrypt的基本用法(非同步).
 - [Example2](https://github.com/RC-Dev-Tech/nodejs-bcrypt/blob/main/src/examples/example2.ts) - bcrypt的基本用法(同步).
-- [Example2](https://github.com/RC-Dev-Tech/nodejs-bcrypt/blob/main/src/examples/example2.ts) - bcrypt的應用範例(註冊/登入).
+- [Example3](https://github.com/RC-Dev-Tech/nodejs-bcrypt/blob/main/src/examples/example2.ts) - bcrypt的應用範例(註冊/登入).
 
 ---
 <br>
